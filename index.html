@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  <div id="shiniesgo" onload="loadshiniesgo()">
+  <h2>Pokemon Go Shinies</h2>
+  </div>
+  <script>
+  function loadshiniesgo(){
+  fetch("https://shluffy.github.io/random/data.json")
+		.then(response => response.json())
+		.then(data => {
+    for (i = 0; i < data.length; i++) {
+    //Make adding JSON data easier
+    var pokemon = data[i].pokemon;
+    var amount = data[i].amount;
+    var event = data[i].event;
+    //Construct Additiom
+    var addition = `<p>${pokemon} (${amount})<br>${event}</p>`;
+    //Add addition
+    document.getElementById("shiniesgo").innerHTML += addition;
+    }
+  }
+  </script>
+  
+</html>
