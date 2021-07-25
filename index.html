@@ -5,8 +5,8 @@
   <h2>Pokemon Go Shinies</h2>
   </div>
   <script>
-  loadshiniesgo()
-  function loadshiniesgo(){
+  loadgo()
+  function loadgo(){
   fetch("https://shluffy.github.io/random/data.json")
 		.then(response => response.json())
 		.then(data => {
