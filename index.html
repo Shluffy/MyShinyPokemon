@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 
-  <div id="shiniesgo" onload="loadshiniesgo()">
+  <div id="shiniesgo">
   <h2>Pokemon Go Shinies</h2>
   </div>
   <script>
+  loadshiniesgo()
   function loadshiniesgo(){
   fetch("https://shluffy.github.io/random/data.json")
 		.then(response => response.json())
