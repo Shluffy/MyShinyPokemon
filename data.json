@@ -1,19 +1,120 @@
-[
+[    
+      {
+            "pokemon": "Arcanine",
+            "amount": "1",
+            "event": "Pokemon Go Fest 2021 Day 2",
+            "caught": "N/A"
+      },
+      
+      {
+            "pokemon": "Voltorb",
+            "amount": "1",
+            "event": "N/A",
+            "caught": "Voltorb"
+      },
+      
+      {
+            "pokemon": "Scyther",
+            "amount": "1",
+            "event": "Pokemon Go Fest 2021 Day 2",
+            "caught": "Scyther"
+      },
+      
+      {
+            "pokemon": "Flareon",
+            "amount": "1",
+            "event": "Jump Start Research Guaranteed Shiny Eevee",
+            "caught": "Eeevee"
+      },
+      
+      {
+            "pokemon": "Omanyte",
+            "amount": "2",
+            "event": "Ultra Unlock Part 1: Time",
+            "caught": "Omanyte"
+      },
+      
+      {
+            "pokemon": "Ledian",
+            "amount": "1",
+            "event": "Pokemon Go Fest 2021 Day 2",
+            "caught": "Ledyba"
+      },
+      
+      {
+            "pokemon": "Lugia",
+            "amount": "1",
+            "event": "Pokemon Go Fest 2021 Day 2",
+            "caught": "Lugia"
+      },
+      
+      {
+            "pokemon": "Marshtomp",
+            "amount": "1",
+            "event": "N/A",
+            "caught": "Mudkip"
+      },
+      
+      {
+            "pokemon": "Wurmple",
+            "amount": "1",
+            "event": "N/A",
+            "caught": "Wurmple"
+      },
+      
+      {
+            "pokemon": "Grumpig",
+            "amount": "1",
+            "event": "N/A",
+            "caught": "Hatched: Spoink"
+      },
+      
+      {
+            "pokemon": "Bidoof",
+            "amount": "1",
+            "event": "Bidoof Breakout",
+            "caught": "Bidoof"
+      },
+      
+      {
+            "pokemon": "Bibarel",
+            "amount": "1",
+            "event": "Bidoof Breakout",
+            "caught": "Bidoof"
+      },
+       
+      
       {
             "pokemon": "Gible",
             "amount": "18",
-            "event": "Community Day Gible, June 2021"
+            "event": "Community Day Gible, June 2021",
+            "caught": "Gible"
       },
       
       {
             "pokemon": "Gabite",
             "amount": "1",
-            "event": "Community Day Gible, June 2021"
+            "event": "Community Day Gible, June 2021",
+            "caught": "Gible"
       },
       
       {
             "pokemon": "Garchomp",
             "amount": "2",
-            "event": "Community Day Gible, June 2021"
-      }
+            "event": "Community Day Gible, June 2021",
+            "caught": "Gible"
+      },
+      
+      {
+            "pokemon": "Dialga",
+            "amount": "1",
+            "event": "Ultra Unlock Part 1: Time",
+            "caught": "Dialga"
+      },
+      
+      
+      
 ]
+
+
+Up to Snivy
