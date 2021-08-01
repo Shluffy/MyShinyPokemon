@@ -18,7 +18,7 @@
     var caught = data[i].caught;
     var boost = data[i].boost;
     //Construct Additiom
-    var addition = `<p>${pokemon} (${amount})<br>Caught During ${event}, caught as a ${caught}, with${boost} boosted chances.</p>`;
+    var addition = `<p>${pokemon} (${amount})<br>Caught During ${event}, caught as a ${caught}, with${data[i].boost} boosted chances.</p>`;
     //Add addition
     document.getElementById("go").innerHTML += addition;
     }
