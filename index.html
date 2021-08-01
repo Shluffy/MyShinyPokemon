@@ -4,7 +4,12 @@
   <div id="go">
   <h2>Pokemon Go Shinies</h2>
   </div>
+	<script type="text/javascript" src="data.json"></script>
   <script>
+	  var mydata = JSON.parse(data); 
+	  alert(mydata[0].pokemon); 
+	  alert(mydata[0].amount); 
+	  alert(mydata[0].event);
   /* 
   loadgo()
   function loadgo(){
@@ -25,5 +30,5 @@
   */
 	  
   </script>
-  
+	
 </html>
