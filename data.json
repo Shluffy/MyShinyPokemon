@@ -3,84 +3,96 @@
             "pokemon": "Arcanine",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
-            "caught": "Growlithe"
+            "caught": "Growlithe",
+            "boost": " minorly"
       },
       
       {
             "pokemon": "Voltorb",
             "amount": "1",
             "event": "no event",
-            "caught": "Voltorb"
+            "caught": "Voltorb",
+            "boost": "out"
       },
       
       {
             "pokemon": "Scyther",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
-            "caught": "Scyther"
+            "caught": "Scyther",
+            "boost": " minorly"
       },
       
       {
             "pokemon": "Flareon",
             "amount": "1",
-            "event": "Jump Start Research Guaranteed Shiny Eevee",
-            "caught": "Eeevee"
+            "event": "Pokemon Go Fest 2021 Day 2",
+            "caught": "Eeevee",
+            "boost": "Guaranteed, Jump Start Research"
       },
       
       {
             "pokemon": "Omanyte",
             "amount": "2",
             "event": "Ultra Unlock Part 1: Time",
-            "caught": "Omanyte"
+            "caught": "Omanyte",
+            "boost": "out"
       },
       
       {
             "pokemon": "Ledian",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
-            "caught": "Ledyba"
+            "caught": "Ledyba",
+            "boost": " minorly"
       },
       
       {
             "pokemon": "Lugia",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
-            "caught": "Lugia"
+            "caught": "Lugia",
+            "boost": " minorly"
       },
       
       {
             "pokemon": "Marshtomp",
             "amount": "1",
             "event": "no event",
-            "caught": "Mudkip"
+            "caught": "Mudkip",
+            "boost": "out"
       },
       
       {
             "pokemon": "Wurmple",
             "amount": "1",
             "event": "no event",
-            "caught": "Wurmple"
+            "caught": "Wurmple",
+            "boost": "out"
       },
       
       {
             "pokemon": "Grumpig",
             "amount": "1",
             "event": "Marill Spotlight Hour (May 25th 2021)",
-            "caught": "Spoink (Hatched)"
+            "caught": "Spoink (Hatched)",
+            "boost": "out"
       },
       
       {
             "pokemon": "Bidoof",
             "amount": "1",
             "event": "Bidoof Breakout",
-            "caught": "Bidoof"
+            "caught": "Bidoof",
+            "boost": "out"
       },
       
       {
             "pokemon": "Bibarel",
             "amount": "1",
             "event": "Bidoof Breakout",
-            "caught": "Bidoof"
+            "caught": "Bidoof",
+            "boost": "out"
       },
        
       
@@ -88,27 +100,31 @@
             "pokemon": "Gible",
             "amount": "18",
             "event": "Community Day Gible, June 2021",
-            "caught": "Gible"
+            "caught": "Gible",
+            "boost": " majorly"
       },
       
       {
             "pokemon": "Gabite",
             "amount": "1",
             "event": "Community Day Gible, June 2021",
-            "caught": "Gible"
+            "caught": "Gible",
+            "boost": " majorly"
       },
       
       {
             "pokemon": "Garchomp",
             "amount": "2",
             "event": "Community Day Gible, June 2021",
-            "caught": "Gible"
+            "caught": "Gible",
+            "boost": " majorly"
       },
       
       {
             "pokemon": "Dialga",
             "amount": "1",
             "event": "Ultra Unlock Part 1: Time",
-            "caught": "Dialga"
+            "caught": "Dialga",
+            "boost": "out"
       }
 ]
