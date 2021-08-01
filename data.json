@@ -3,13 +3,13 @@
             "pokemon": "Arcanine",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
-            "caught": "N/A"
+            "caught": "Growlithe"
       },
       
       {
             "pokemon": "Voltorb",
             "amount": "1",
-            "event": "N/A",
+            "event": "no event",
             "caught": "Voltorb"
       },
       
@@ -51,21 +51,21 @@
       {
             "pokemon": "Marshtomp",
             "amount": "1",
-            "event": "N/A",
+            "event": "no event",
             "caught": "Mudkip"
       },
       
       {
             "pokemon": "Wurmple",
             "amount": "1",
-            "event": "N/A",
+            "event": "no event",
             "caught": "Wurmple"
       },
       
       {
             "pokemon": "Grumpig",
             "amount": "1",
-            "event": "N/A",
+            "event": "Marill Spotlight Hour (May 25th 2021)",
             "caught": "Hatched: Spoink"
       },
       
