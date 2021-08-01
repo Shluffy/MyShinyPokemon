@@ -4,13 +4,7 @@
   <div id="go">
   <h2>Pokemon Go Shinies</h2>
   </div>
-	<script type="text/javascript" src="data.json"></script>
-  <script>
-	 /* var mydata = JSON.parse(data); 
-	  alert(mydata[0].pokemon); 
-	  alert(mydata[0].amount); 
-	  alert(mydata[0].event);
-   */
+<script>
   loadgo()
   function loadgo(){
   fetch("https://shluffy.github.io/random/data.json")
@@ -21,8 +15,9 @@
     var pokemon = data[i].pokemon;
     var amount = data[i].amount;
     var event = data[i].event;
+    var caught = data[i].caught;
     //Construct Additiom
-    var addition = `<p>${pokemon} (${amount})<br>${event}</p>`;
+    var addition = `<p>${pokemon} (${amount})<br>Caught During ${event}, Caught as a ${caught}.</p>`;
     //Add addition
     document.getElementById("go").innerHTML += addition;
     }
