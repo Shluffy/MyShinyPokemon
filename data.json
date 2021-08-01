@@ -1,7 +1,19 @@
 [
       {
             "pokemon": "Gible",
+            "amount": "18",
+            "event": "Community Day Gible, June 2021"
+      },
+      
+      {
+            "pokemon": "Gabite",
             "amount": "1",
             "event": "Community Day Gible, June 2021"
       },
+      
+      {
+            "pokemon": "Garchomp",
+            "amount": "2",
+            "event": "Community Day Gible, June 2021"
+      }
 ]
