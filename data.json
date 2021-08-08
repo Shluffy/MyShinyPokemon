@@ -134,5 +134,29 @@
             "event": "Ultra Unlock Part 1: Time",
             "caught": "Dialga",
             "boost": "out"
+      },
+      
+      {
+            "pokemon": "Snivy",
+            "amount": "5",
+            "event": "Community Day Snivy, April 2021",
+            "caught": "Snivy",
+            "boost": " majorly"
+      },
+      
+      {
+            "pokemon": "Servine",
+            "amount": "1",
+            "event": "Community Day Snivy, April 2021",
+            "caught": "Snivy",
+            "boost": " majorly"
+      },
+      
+      {
+            "pokemon": "Serperior",
+            "amount": "1",
+            "event": "Community Day Snivy, April 2021",
+            "caught": "Snivy",
+            "boost": " majorly"
       }
 ]
