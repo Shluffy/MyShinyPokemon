@@ -1,5 +1,13 @@
 [    
       {
+            "pokemon": "Oddish",
+            "amount": "1",
+            "event": "Ultra Onlock Part 2: Space",
+            "caught": "Oddish",
+            "boost": "out"
+      },
+      
+      {
             "pokemon": "Arcanine",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
