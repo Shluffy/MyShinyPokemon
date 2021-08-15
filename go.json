@@ -104,6 +104,14 @@
       },
       
       {
+            "pokemon": "Natu",
+            "amount": "1",
+            "event": "Ultra Unlock Part 2: Space",
+            "caught": "Natu",
+            "boost": " out"
+      },
+      
+      {
             "pokemon": "Espeon",
             "amount": "1",
             "event": "Community Day Eevee, Day 2, August 2021",
