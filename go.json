@@ -2,7 +2,7 @@
       {
             "pokemon": "Oddish",
             "amount": "1",
-            "event": "Ultra Onlock Part 2: Space",
+            "event": "Ultra Unlock Part 2: Space",
             "caught": "Oddish",
             "boost": "out"
       },
@@ -13,6 +13,14 @@
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Growlithe",
             "boost": " minorly"
+      },
+      
+      {
+            "pokemon": "Gastly",
+            "amount": "1",
+            "event": "Ultra Unlock Part 2: Space",
+            "caught": "Gastly",
+            "boost": "out"
       },
       
       {
@@ -41,7 +49,15 @@
       
       {
             "pokemon": "Omanyte",
-            "amount": "2",
+            "amount": "1",
+            "event": "Ultra Unlock Part 1: Time",
+            "caught": "Omanyte",
+            "boost": "out"
+      },
+      
+      {
+            "pokemon": "Omastar",
+            "amount": "1",
             "event": "Ultra Unlock Part 1: Time",
             "caught": "Omanyte",
             "boost": "out"
