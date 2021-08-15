@@ -40,6 +40,38 @@
       },
       
       {
+            "pokemon": "Eevee",
+            "amount": "15",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eeevee",
+            "boost": " majorly"
+      },
+      
+      {
+            "pokemon": "Vaporeon",
+            "amount": "2",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eeevee",
+            "boost": " majorly"
+      },
+      
+      {
+            "pokemon": "Jolteon",
+            "amount": "2",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eeevee",
+            "boost": " majorly"
+      },
+      
+      {
+            "pokemon": "Flareon",
+            "amount": "3",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eeevee",
+            "boost": " majorly"
+      },
+      
+      {
             "pokemon": "Flareon",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
@@ -69,6 +101,14 @@
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Ledyba",
             "boost": " minorly"
+      },
+      
+      {
+            "pokemon": "Espeon",
+            "amount": "1",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eevee",
+            "boost": " majorly"
       },
       
       {
@@ -145,6 +185,22 @@
       },
       
       {
+            "pokemon": "Leafeon",
+            "amount": "1",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eevee",
+            "boost": " majorly"
+      },
+      
+      {
+            "pokemon": "Glaceon",
+            "amount": "1",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eevee",
+            "boost": " majorly"
+      },
+      
+      {
             "pokemon": "Dialga",
             "amount": "1",
             "event": "Ultra Unlock Part 1: Time",
@@ -173,6 +229,14 @@
             "amount": "1",
             "event": "Community Day Snivy, April 2021",
             "caught": "Snivy",
+            "boost": " majorly"
+      },
+      
+      {
+            "pokemon": "Sylveon",
+            "amount": "1",
+            "event": "Community Day Eevee, Day 2, August 2021",
+            "caught": "Eevee",
             "boost": " majorly"
       }
 ]
