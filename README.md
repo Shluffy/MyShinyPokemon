@@ -5,7 +5,7 @@ Games Listed: Shield, Pokemon Go
 
 Any Listed Shiny Pokemon will be one that I caught in a pokemon game.
 
-## Use this to list your own shiny pokemon (tutorial)
+## Use this to list your own shiny pokemon (tutorial) [WIP]
 Step 1: Fork This Repository/Create A New Repository
 
 Step 2 (Only If You Forked The Repository): Delete all files 
