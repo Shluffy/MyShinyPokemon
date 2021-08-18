@@ -249,6 +249,14 @@
       },
       
       {
+            "pokemon": "Bunnelby",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Bunnelby",
+            "boost": "out"
+      },
+      
+      {
             "pokemon": "Sylveon",
             "amount": "1",
             "event": "Community Day Eevee, Day 2, August 2021",
