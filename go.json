@@ -96,6 +96,14 @@
       },
       
       {
+            "pokemon": "Ledyba",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Ledyba",
+            "boost": "out"
+      },
+      
+      {
             "pokemon": "Ledian",
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
