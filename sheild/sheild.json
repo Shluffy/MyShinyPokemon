@@ -1,0 +1,16 @@
+[
+      {
+            "pokemon": "Eevee",
+            "amount": "1",
+            "method": "Dynamax Den",
+            "caught": "Eevee"
+      },
+  
+      {
+            "pokemon": "Metagross",
+            "amount": "1",
+            "method": "Dynamax Den",
+            "caught": "Metagross"
+      }
+  
+]

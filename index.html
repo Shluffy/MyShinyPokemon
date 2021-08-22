@@ -1,31 +1,8 @@
 <!DOCTYPE html>
 <html>
 
-  <div id="go">
-  <h2>Pokemon Go Shinies</h2>
-  </div>
-<script>
-  loadgo()
-  function loadgo(){
-  fetch("https://shluffy.github.io/MyShinyPokemon/go.json")
-		.then(response => response.json())
-		.then(data => {
-    for (i = 0; i < data.length; i++) {
-    //Make adding JSON data easier
-    var pokemon = data[i].pokemon;
-    var amount = data[i].amount;
-    var event = data[i].event;
-    var caught = data[i].caught;
-    var boost = data[i].boost;
-    //Construct Additiom
-    var addition = `<p>${pokemon} (${amount})<br>Caught During ${event}, caught as a ${caught}, with${boost} boosted chances.</p>`;
-    //Add addition
-    document.getElementById("go").innerHTML += addition;
-    }
-  });
-  }
-  
-	  
-  </script>
-	
+  <div>
+  <h2>MyShinyPokemon - A Complete Database of Shluffy's Shiny Pokemon</h2>
+  For shiny pokemon in pokemon go, go <a href = "/go/index.html">here</a>. For pokemon shield, go <a href = "/sheild/index.html">here</a>.
+</div>
 </html>
