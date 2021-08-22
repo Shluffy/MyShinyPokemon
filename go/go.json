@@ -4,7 +4,11 @@
             "amount": "1",
             "event": "Ultra Unlock Part 2: Space",
             "caught": "Oddish",
-            "boost": "out"
+            "boost": "out",
+            "nums": [
+            "pokemon": "043",
+            "caught": "043",
+            ]
       },
       
       {
@@ -12,7 +16,11 @@
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Growlithe",
-            "boost": " minorly"
+            "boost": " minorly",
+            "nums": [
+            "pokemon": "059",
+            "caught": "058",
+            ]
       },
       
       {
@@ -20,7 +28,11 @@
             "amount": "1",
             "event": "Ultra Unlock Part 2: Space",
             "caught": "Gastly",
-            "boost": "out"
+            "boost": "out",
+            "nums": [
+            "pokemon": "094",
+            "caught": "092",
+            ]
       },
       
       {
@@ -28,7 +40,11 @@
             "amount": "1",
             "event": "no event",
             "caught": "Voltorb",
-            "boost": "out"
+            "boost": "out",
+            "nums": [
+            "pokemon": "100",
+            "caught": "100",
+            ]
       },
       
       {
@@ -36,7 +52,11 @@
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Scyther",
-            "boost": " minorly"
+            "boost": " minorly",
+            "nums": [
+            "pokemon": "123",
+            "caught": "123",
+            ]
       },
       
       {
@@ -44,7 +64,11 @@
             "amount": "15",
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
-            "boost": " majorly"
+            "boost": " majorly",
+            "nums": [
+            "pokemon": "133",
+            "caught": "133",
+            ]
       },
       
       {
@@ -52,7 +76,11 @@
             "amount": "2",
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
-            "boost": " majorly"
+            "boost": " majorly",
+            "nums": [
+            "pokemon": "134",
+            "caught": "133",
+            ]
       },
       
       {
@@ -60,7 +88,11 @@
             "amount": "2",
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
-            "boost": " majorly"
+            "boost": " majorly",
+            "nums": [
+            "pokemon": "135",
+            "caught": "133",
+            ]
       },
       
       {
@@ -68,7 +100,11 @@
             "amount": "3",
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
-            "boost": " majorly"
+            "boost": " majorly",
+            "nums": [
+            "pokemon": "136",
+            "caught": "133",
+            ]
       },
       
       {
@@ -76,7 +112,11 @@
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Eeevee",
-            "boost": " Guaranteed Chances, From Jump Start Research, Without any other "
+            "boost": " Guaranteed Chances, From Jump Start Research, Without any other ",
+            "nums": [
+            "pokemon": "136",
+            "caught": "133",
+            ]
       },
       
       {
@@ -84,7 +124,11 @@
             "amount": "1",
             "event": "Ultra Unlock Part 1: Time",
             "caught": "Omanyte",
-            "boost": "out"
+            "boost": "out",
+            "nums": [
+            "pokemon": "138",
+            "caught": "138",
+            ]
       },
       
       {
@@ -92,7 +136,11 @@
             "amount": "1",
             "event": "Ultra Unlock Part 1: Time",
             "caught": "Omanyte",
-            "boost": "out"
+            "boost": "out",
+            "nums": [
+            "pokemon": "139",
+            "caught": "138",
+            ]
       },
       
       {
@@ -100,7 +148,11 @@
             "amount": "1",
             "event": "no event",
             "caught": "Ledyba",
-            "boost": "out"
+            "boost": "out",
+            "nums": [
+            "pokemon": "165",
+            "caught": "165",
+            ]
       },
       
       {
@@ -108,7 +160,11 @@
             "amount": "1",
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Ledyba",
-            "boost": " minorly"
+            "boost": " minorly",
+            "nums": [
+            "pokemon": "166",
+            "caught": "165",
+            ]
       },
       
       {
