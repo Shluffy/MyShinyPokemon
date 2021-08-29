@@ -5,8 +5,8 @@
   <h2>Pokemon Sheild Shinies</h2>
   </div>
 <script>
-  loadgo()
-  function loadgo(){
+  loadshiny()
+  function loadshiny(){
   fetch("https://shluffy.github.io/MyShinyPokemon/sheild/sheild.json") //Change this for pulling on a fork
 		.then(response => response.json())
 		.then(data => {
@@ -19,7 +19,7 @@
     //Construct Additiom
     var addition = `<p>${pokemon} (${amount})<br>Found using this method: ${method}, caught as a ${caught}.</p>`;
     //Add addition
-    document.getElementById("shiniy").innerHTML += addition;
+    document.getElementById("shiny").innerHTML += addition;
     }
   });
   }
