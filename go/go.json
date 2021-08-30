@@ -2,7 +2,7 @@
       {
             "pokemon": "Pikachu",
             "amount": "1",
-            "event": "Ultra Unlock Part 3: Sword & Shield - 20th-26th, Zacian Part",
+            "event": "Ultra Unlock Part 3: Sword & Shield - Zacian Half",
             "caught": "Pikachu",
             "boost": "out",
             "nums.pokemon": "025",
@@ -27,6 +27,16 @@
             "boost": " minorly",
             "nums.pokemon": "059",
             "nums.caught": "058"
+      },
+      
+      {
+            "pokemon": "Ponyta (Galarian)",
+            "amount": "1",
+            "event": "Ultra Unlock Part 3: Sword & Shield - Zamazenta Half",
+            "caught": "Ponyta",
+            "boost": "out",
+            "nums.pokemon": "077",
+            "nums.caught": "077"
       },
       
       {
