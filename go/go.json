@@ -1,5 +1,15 @@
 [    
       {
+            "pokemon": "Pikachu",
+            "amount": "1",
+            "event": "Ultra Unlock Part 3: Sword & Shield - 20th-26th, Zacian Part",
+            "caught": "Pikachu",
+            "boost": "out",
+            "nums.pokemon": "025",
+            "nums.caught": "025"
+      },
+      
+      {
             "pokemon": "Oddish",
             "amount": "1",
             "event": "Ultra Unlock Part 2: Space",
