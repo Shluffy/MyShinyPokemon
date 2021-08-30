@@ -19,8 +19,8 @@
     var boost = data[i].boost;
     //Construct Additiom
     var addition = `<p><a href = "https://www.serebii.net/pokemongo/pokemon/`;
-    addition += data[i].nums.pokemon; 
-    addition += `.shtml"><h2>${pokemon}</h2></a>Amount: ${amount}. Caught During ${event}. Caught as a ${caught}, with${boost} boosted chances.</p>`;
+    addition =  addition + data[i].nums.pokemon; 
+    addition =  addition + `.shtml"><h2>${pokemon}</h2></a>Amount: ${amount}. Caught During ${event}. Caught as a ${caught}, with${boost} boosted chances.</p>`;
     //Add addition
     document.getElementById("go").innerHTML += addition;
     }
