@@ -2,7 +2,7 @@
 <html>
   <title>Pokemon Go Shinies - MyShinyPokemon - Shluffy</title>
   <div id="go">
-  <h2>Pokemon Go Shinies</h2>
+  <h1>Pokemon Go Shinies</h1>
   </div>
 <script>
   loadgo()
@@ -18,7 +18,7 @@
     var caught = data[i].caught;
     var boost = data[i].boost;
     //Construct Additiom
-    var addition = `<p>${pokemon} (${amount})<br>Caught During ${event}, caught as a ${caught}, with${boost} boosted chances.</p>`;
+    var addition = `<p><a href = "https://www.serebii.net/pokemongo/pokemon/"+ data[i].nums.pokemon +".shtml"><h2>${pokemon}</h2></a><br>Amount: ${amount}. Caught During ${event}. Caught as a ${caught}, with${boost} boosted chances.</p>`;
     //Add addition
     document.getElementById("go").innerHTML += addition;
     }
