@@ -6,24 +6,13 @@
   </div>
 <script>
   loadgo()
-  function loadgo(){
-  fetch("https://shluffy.github.io/MyShinyPokemon/go/go.json") // Change this is pulling on a fork
-		.then(response => response.json())
-		.then(data => {
-    for (i = 0; i < data.length; i++) {
-    let addition;
-    //Make adding JSON data easier
-    var pokemon = data[i].pokemon;
-    var amount = data[i].amount;
-    var event = data[i].event;
     var caught = data[i].caught;
     var boost = data[i].boost;
     //Construct Additiom
-    addition += `<p><a href = "https://www.serebii.net/pokemongo/pokemon/`;
-    addition += data[i].nums.pokemon; 
-    addition +=`.shtml"><h2>${pokemon}</h2></a>Amount: ${amount}. Caught During ${event}. Caught as a ${caught}, with${boost} boosted chances.</p>`;
+    var addition = `<p>${pokemon} (${amount})<br>Caught During ${event}, caught as a ${caught}, with${boost} boosted chances.</p>`;
     //Add addition
     document.getElementById("go").innerHTML += addition;
+    }
     }
   });
   }
