@@ -5,8 +5,8 @@
             "event": "Ultra Unlock Part 3: Sword & Shield - Zacian Half",
             "caught": "Pikachu",
             "boost": "out",
-            "nums.pokemon": "025",
-            "nums.caught": "025"
+            "npokemon": "025",
+            "ncaught": "025"
       },
       
       {
@@ -15,8 +15,8 @@
             "event": "Ultra Unlock Part 2: Space",
             "caught": "Oddish",
             "boost": "out",
-            "nums.pokemon": "043",
-            "nums.caught": "043"
+            "npokemon": "043",
+            "ncaught": "043"
       },
       
       {
@@ -25,8 +25,8 @@
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Growlithe",
             "boost": " minorly",
-            "nums.pokemon": "059",
-            "nums.caught": "058"
+            "npokemon": "059",
+            "ncaught": "058"
       },
       
       {
@@ -35,8 +35,8 @@
             "event": "Ultra Unlock Part 3: Sword & Shield - Zamazenta Half",
             "caught": "Ponyta",
             "boost": "out",
-            "nums.pokemon": "077",
-            "nums.caught": "077"
+            "npokemon": "077",
+            "ncaught": "077"
       },
       
       {
@@ -45,8 +45,8 @@
             "event": "Ultra Unlock Part 2: Space",
             "caught": "Gastly",
             "boost": "out",
-            "nums.pokemon": "094",
-            "nums.caught": "092"
+            "npokemon": "094",
+            "ncaught": "092"
       },
       
       {
@@ -55,8 +55,8 @@
             "event": "no event",
             "caught": "Voltorb",
             "boost": "out",
-            "nums.pokemon": "100",
-            "nums.caught": "100"
+            "npokemon": "100",
+            "ncaught": "100"
       },
       
       {
@@ -65,8 +65,8 @@
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Scyther",
             "boost": " minorly",
-            "nums.pokemon": "123",
-            "nums.caught": "123"
+            "npokemon": "123",
+            "ncaught": "123"
       },
       
       {
@@ -75,8 +75,8 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
             "boost": " majorly",
-            "nums.pokemon": "133",
-            "nums.caught": "133"
+            "npokemon": "133",
+            "ncaught": "133"
       },
       
       {
@@ -85,8 +85,8 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
             "boost": " majorly",
-            "nums.pokemon": "134",
-            "nums.caught": "133"
+            "npokemon": "134",
+            "ncaught": "133"
       },
       
       {
@@ -95,8 +95,8 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
             "boost": " majorly",
-            "nums.pokemon": "135",
-            "nums.caught": "133"
+            "npokemon": "135",
+            "ncaught": "133"
       },
       
       {
@@ -105,8 +105,8 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eeevee",
             "boost": " majorly",
-            "nums.pokemon": "136",
-            "nums.caught": "133"
+            "npokemon": "136",
+            "ncaught": "133"
       },
       
       {
@@ -115,8 +115,8 @@
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Eeevee",
             "boost": " Guaranteed Chances, From Jump Start Research, Without any other ",
-            "nums.pokemon": "136",
-            "nums.caught": "133"
+            "npokemon": "136",
+            "ncaught": "133"
       },
       
       {
@@ -125,8 +125,8 @@
             "event": "Ultra Unlock Part 1: Time",
             "caught": "Omanyte",
             "boost": "out",
-            "nums.pokemon": "138",
-            "nums.caught": "138"
+            "npokemon": "138",
+            "ncaught": "138"
       },
       
       {
@@ -135,8 +135,8 @@
             "event": "Ultra Unlock Part 1: Time",
             "caught": "Omanyte",
             "boost": "out",
-            "nums.pokemon": "139",
-            "nums.caught": "138"
+            "npokemon": "139",
+            "ncaught": "138"
       },
       
       {
@@ -145,8 +145,8 @@
             "event": "no event",
             "caught": "Ledyba",
             "boost": "out",
-            "nums.pokemon": "165",
-            "nums..caught": "165"
+            "npokemon": "165",
+            "n.caught": "165"
       },
       
       {
@@ -155,8 +155,8 @@
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Ledyba",
             "boost": " minorly",
-            "nums.pokemon": "166",
-            "nums.caught": "165"
+            "npokemon": "166",
+            "ncaught": "165"
       },
       
       {
@@ -165,8 +165,8 @@
             "event": "Ultra Unlock Part 2: Space",
             "caught": "Natu",
             "boost": " out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -175,8 +175,8 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eevee",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -185,8 +185,8 @@
             "event": "Pokemon Go Fest 2021 Day 2",
             "caught": "Lugia",
             "boost": " minorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -195,8 +195,8 @@
             "event": "no event",
             "caught": "Mudkip",
             "boost": "out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -205,8 +205,8 @@
             "event": "no event",
             "caught": "Wurmple",
             "boost": "out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -215,8 +215,8 @@
             "event": "Marill Spotlight Hour (May 25th 2021)",
             "caught": "Spoink (Hatched)",
             "boost": "out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -225,8 +225,8 @@
             "event": "Bidoof Breakout",
             "caught": "Bidoof",
             "boost": "out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -235,8 +235,8 @@
             "event": "Bidoof Breakout",
             "caught": "Bidoof",
             "boost": "out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
        
       
@@ -246,8 +246,8 @@
             "event": "Community Day Gible, June 2021",
             "caught": "Gible",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -256,8 +256,8 @@
             "event": "Community Day Gible, June 2021",
             "caught": "Gible",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -266,8 +266,8 @@
             "event": "Community Day Gible, June 2021",
             "caught": "Gible",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -276,8 +276,8 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eevee",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -286,8 +286,8 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eevee",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -296,8 +296,8 @@
             "event": "Ultra Unlock Part 1: Time",
             "caught": "Dialga",
             "boost": "out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -306,8 +306,8 @@
             "event": "Community Day Snivy, April 2021",
             "caught": "Snivy",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -316,8 +316,8 @@
             "event": "Community Day Snivy, April 2021",
             "caught": "Snivy",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -326,8 +326,8 @@
             "event": "Community Day Snivy, April 2021",
             "caught": "Snivy",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       },
       
       {
@@ -336,8 +336,8 @@
             "event": "no event",
             "caught": "Bunnelby",
             "boost": "out",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
 
       },
       
@@ -347,7 +347,9 @@
             "event": "Community Day Eevee, Day 2, August 2021",
             "caught": "Eevee",
             "boost": " majorly",
-            "nums.pokemon": "001",
-            "nums.caught": "001"
+            "npokemon": "001",
+            "ncaught": "001"
       }
 ]
+
+
