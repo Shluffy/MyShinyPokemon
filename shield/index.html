@@ -7,19 +7,19 @@
 <script>
   loadshiny()
   function loadshiny(){
-  fetch("https://shluffy.github.io/MyShinyPokemon/shield/shield.json") //Change this for pulling on a fork
+  	fetch("https://shluffy.github.io/MyShinyPokemon/shield/shield.json") // Change this is pulling on a fork
 		.then(response => response.json())
 		.then(data => {
     for (i = 0; i < data.length; i++) {
     //Make adding JSON data easier
     var pokemon = data[i].pokemon;
     var amount = data[i].amount;
-    var event = data[i].method;
+    var method = data[i].method;
     var caught = data[i].caught;
     //Construct Additiom
-    var addition = `<p>${pokemon} (${amount})<br>Found using this method: ${method}, caught as a ${caught}.</p>`;
+    var addition = `<p>${pokemon} (${amount})<br>Caught Using this method: ${method}, caught as a ${caught}.</p>`;
     //Add addition
-    document.getElementById("shiny").innerHTML += addition;
+    document.getElementById("go").innerHTML += addition;
     }
   });
   }
