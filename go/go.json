@@ -431,13 +431,64 @@
       },
       
       {
+            "pokemon": "Oshawatt",
+            "amount": "16",
+            "event": "Community Day Oshawatt, September 2021",
+            "caught": "Oshawatt",
+            "boost": " majorly",
+            "npokemon": "501",
+            "ncaught": "501"
+      },
+      
+      {
+            "pokemon": "Dewott",
+            "amount": "1",
+            "event": "Community Day Oshawatt, September 2021",
+            "caught": "Oshawatt",
+            "boost": " majorly",
+            "npokemon": "502",
+            "ncaught": "501"
+      },
+      
+      {
+            "pokemon": "Samurott",
+            "amount": "2",
+            "event": "Community Day Oshawatt, September 2021",
+            "caught": "Oshawatt",
+            "boost": " majorly",
+            "npokemon": "503",
+            "ncaught": "501"
+      },
+      
+      {
+            "pokemon": "Woobat",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Woobat",
+            "boost": "out",
+            "npokemon": "527",
+            "ncaught": "527"
+      },
+      
+      {
             "pokemon": "Bunnelby",
             "amount": "1",
             "event": "no event",
             "caught": "Bunnelby",
             "boost": "out",
-            "npokemon": "001",
-            "ncaught": "001"
+            "npokemon": "659",
+            "ncaught": "659"
+
+      },
+      
+      {
+            "pokemon": "Diggersby",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Bunnelby",
+            "boost": "out",
+            "npokemon": "670",
+            "ncaught": "659"
 
       },
       
