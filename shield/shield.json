@@ -1,16 +1,38 @@
 [
       {
+            "pokemon": "Venasuar",
+            "amount": "1",
+            "method": "Dynamax Den (LarryBudd YT)",
+            "caught": "Venasuar",
+            "npokemon": "003",
+            "ncaught": "003"
+      },
+      
+      {
+            "pokemon": "Gengar",
+            "amount": "2",
+            "method": "Dynamax Den (LarryBudd YT)",
+            "caught": "Gengar",
+            "npokemon": "",
+            "ncaught": ""
+      },
+      
+      {
             "pokemon": "Eevee",
             "amount": "1",
             "method": "Dynamax Den",
-            "caught": "Eevee"
+            "caught": "Eevee",
+            "npokemon": "133",
+            "ncaught": "133"
       },
   
       {
             "pokemon": "Metagross",
             "amount": "1",
-            "method": "Dynamax Den",
-            "caught": "Metagross"
+            "method": "Dynamax Den (ShinyDen.com)",
+            "caught": "Metagross",
+            "npokemon": "376",
+            "ncaught": "376"
       }
   
 ]
