@@ -10,6 +10,16 @@
       },
       
       {
+            "pokemon": "Butterfree (Fashionable)",
+            "amount": "1",
+            "event": "Fashion Week",
+            "caught": "Butterfree",
+            "boost": "out",
+            "npokemon": "012",
+            "ncaught": "012"
+      },
+      
+      {
             "pokemon": "Pikachu",
             "amount": "1",
             "event": "Ultra Unlock Part 3: Sword & Shield - Zacian Half",
@@ -180,6 +190,16 @@
       },
       
       {
+            "pokemon": "Togepi",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Togepi (Hatched)",
+            "boost": "out",
+            "npokemon": "175",
+            "ncaught": "175"
+      },
+      
+      {
             "pokemon": "Natu",
             "amount": "1",
             "event": "Ultra Unlock Part 2: Space",
@@ -280,6 +300,26 @@
       },
       
       {
+            "pokemon": "Kirlia (Fashionable)",
+            "amount": "1",
+            "event": "Fashion Week",
+            "caught": "Kirlia",
+            "boost": "out",
+            "npokemon": "281",
+            "ncaught": "281"
+      },
+      
+      {
+            "pokemon": "Slaking",
+            "amount": "1",
+            "event": "Fashion Week",
+            "caught": "Slakoth",
+            "boost": "out",
+            "npokemon": "289",
+            "ncaught": "287"
+      },
+      
+      {
             "pokemon": "Spoink",
             "amount": "1",
             "event": "no event",
@@ -329,6 +369,15 @@
             "ncaught": "399"
       },
        
+      {
+            "pokemon": "Shinx (Fashionable)",
+            "amount": "1",
+            "event": "Fashion Week",
+            "caught": "Shinx (Hatched)",
+            "boost": "out",
+            "npokemon": "403",
+            "ncaught": "403"
+      },
       
       {
             "pokemon": "Gible",
@@ -368,6 +417,16 @@
             "boost": "out",
             "npokemon": "451",
             "ncaught": "451"
+      },
+      
+      {
+            "pokemon": "Togekiss",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Togepi (Hatched)",
+            "boost": "out",
+            "npokemon": "468",
+            "ncaught": "175"
       },
       
       {
