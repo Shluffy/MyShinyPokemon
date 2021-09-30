@@ -9,12 +9,21 @@
       },
       
       {
+            "pokemon": "Arcanine",
+            "amount": "3",
+            "method": "Dynamax Den (LarryBudd YT)",
+            "caught": "Arcanine",
+            "npokemon": "059",
+            "ncaught": "059"
+      },
+      
+      {
             "pokemon": "Gengar",
             "amount": "2",
             "method": "Dynamax Den (LarryBudd YT)",
             "caught": "Gengar",
-            "npokemon": "",
-            "ncaught": ""
+            "npokemon": "094",
+            "ncaught": "094"
       },
       
       {
