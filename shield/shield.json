@@ -42,6 +42,24 @@
             "caught": "Metagross",
             "npokemon": "376",
             "ncaught": "376"
+      },
+      
+      {
+            "pokemon": "Bewear",
+            "amount": "2",
+            "method": "Dynamax Den (LarryBudd YT)",
+            "caught": "Bewear",
+            "npokemon": "760",
+            "ncaught": "760"
+      },
+      
+      {
+            "pokemon": "Dracovish",
+            "amount": "1",
+            "method": "Dynamax Den (LarryBudd YT)",
+            "caught": "Dracovish",
+            "npokemon": "882",
+            "ncaught": "882"
       }
   
 ]
