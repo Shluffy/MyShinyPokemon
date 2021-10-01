@@ -20,6 +20,26 @@
       },
       
       {
+            "pokemon": "Spearow",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Spearow",
+            "boost": "out",
+            "npokemon": "021",
+            "ncaught": "021"
+      },
+      
+      {
+            "pokemon": "Fearow",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Spearow",
+            "boost": "out",
+            "npokemon": "022",
+            "ncaught": "021"
+      },
+      
+      {
             "pokemon": "Pikachu",
             "amount": "1",
             "event": "Ultra Unlock Part 3: Sword & Shield - Zacian Half",
@@ -27,6 +47,16 @@
             "boost": "out",
             "npokemon": "025",
             "ncaught": "025"
+      },
+      
+      {
+            "pokemon": "Nidoran♀",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Nidoran♀",
+            "boost": "out",
+            "npokemon": "029",
+            "ncaught": "029"
       },
       
       {
