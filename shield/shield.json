@@ -9,6 +9,15 @@
       },
       
       {
+            "pokemon": "Squirtle",
+            "amount": "1",
+            "method": "Egg Hatch (Egg From Link Trading, odds unown)",
+            "caught": "Squirtle",
+            "npokemon": "007",
+            "ncaught": "007"
+      },
+      
+      {
             "pokemon": "Arcanine",
             "amount": "3",
             "method": "Dynamax Den (LarryBudd YT)",
