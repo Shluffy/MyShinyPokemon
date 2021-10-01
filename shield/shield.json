@@ -45,12 +45,39 @@
       },
       
       {
+            "pokemon": "Axew",
+            "amount": "1",
+            "method": "Egg Hatch (Egg From Link Trading, odds unown)",
+            "caught": "Axew",
+            "npokemon": "610",
+            "ncaught": "610"
+      },
+      
+      {
+            "pokemon": "Ribombee",
+            "amount": "1",
+            "method": "Dynamax Den (LarryBudd YT)",
+            "caught": "Ribombee",
+            "npokemon": "743",
+            "ncaught": "743"
+      },
+      
+      {
             "pokemon": "Bewear",
             "amount": "2",
             "method": "Dynamax Den (LarryBudd YT)",
             "caught": "Bewear",
             "npokemon": "760",
             "ncaught": "760"
+      },
+      
+      {
+            "pokemon": "Polteageist (Antique Form - Authentic)",
+            "amount": "1",
+            "method": "Dynamax Den (LarryBudd YT)",
+            "caught": "Polteageist",
+            "npokemon": "855",
+            "ncaught": "855"
       },
       
       {
