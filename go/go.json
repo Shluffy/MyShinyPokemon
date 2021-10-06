@@ -50,12 +50,12 @@
       },
       
       {
-            "pokemon": "Nidoran♀",
+            "pokemon": "Nidoqueen",
             "amount": "1",
             "event": "no event",
             "caught": "Nidoran♀",
             "boost": "out",
-            "npokemon": "029",
+            "npokemon": "031",
             "ncaught": "029"
       },
       
@@ -280,6 +280,16 @@
       },
       
       {
+            "pokemon": "Wobbufett (Male)",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Wobbufett",
+            "boost": "out",
+            "npokemon": "202",
+            "ncaught": "202"
+      },
+      
+      {
             "pokemon": "Dunsparce",
             "amount": "1",
             "event": "no event",
@@ -297,6 +307,16 @@
             "boost": " minorly",
             "npokemon": "212",
             "ncaught": "123"
+      },
+      
+      {
+            "pokemon": "Houndour",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Houndour",
+            "boost": "out",
+            "npokemon": "228",
+            "ncaught": "228"
       },
       
       {
