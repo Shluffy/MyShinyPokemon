@@ -270,6 +270,16 @@
       },
       
       {
+            "pokemon": "Murkrow",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Murkrow",
+            "boost": "out",
+            "npokemon": "198",
+            "ncaught": "198"
+      },
+      
+      {
             "pokemon": "Slowking",
             "amount": "1",
             "event": "no event",
