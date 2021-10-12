@@ -290,10 +290,10 @@
       },
       
       {
-            "pokemon": "Wobbufett (Male)",
+            "pokemon": "Wobbufett",
             "amount": "1",
             "event": "no event",
-            "caught": "Wobbufett",
+            "caught": "Wobbufett (Male)",
             "boost": "out",
             "npokemon": "202",
             "ncaught": "202"
