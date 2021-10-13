@@ -580,6 +580,16 @@
       },
       
       {
+            "pokemon": "Roggenrola",
+            "amount": "1",
+            "event": "no event",
+            "caught": "Roggenrola",
+            "boost": "out",
+            "npokemon": "524",
+            "ncaught": "524"
+      },
+      
+      {
             "pokemon": "Woobat",
             "amount": "1",
             "event": "no event",
