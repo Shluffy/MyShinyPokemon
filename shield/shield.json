@@ -11,7 +11,7 @@
       {
             "pokemon": "Squirtle",
             "amount": "1",
-            "method": "Egg Hatch (Egg From Link Trading, odds unown)",
+            "method": "Egg Hatch (Egg From Link Trading, odds are unown)",
             "caught": "Squirtle",
             "npokemon": "007",
             "ncaught": "007"
@@ -56,7 +56,7 @@
       {
             "pokemon": "Axew",
             "amount": "1",
-            "method": "Egg Hatch (Egg From Link Trading, odds unown)",
+            "method": "Egg Hatch (Egg From Link Trading, odds are unown)",
             "caught": "Axew",
             "npokemon": "610",
             "ncaught": "610"
