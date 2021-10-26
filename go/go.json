@@ -50,6 +50,16 @@
       },
       
       {
+            "pokemon": "Pikachu (Halloween 2021)",
+            "amount": "1",
+            "event": "Halloween 2021 Part 1",
+            "caught": "Pikachu",
+            "boost": "out",
+            "npokemon": "025",
+            "ncaught": "025"
+      },
+      
+      {
             "pokemon": "Nidoqueen",
             "amount": "1",
             "event": "no event",
@@ -377,6 +387,16 @@
             "boost": "out",
             "npokemon": "289",
             "ncaught": "287"
+      },
+      
+      {
+            "pokemon": "Sableye",
+            "amount": "1",
+            "event": "Halloween 2021 Part 1",
+            "caught": "Sableye",
+            "boost": "out",
+            "npokemon": "302",
+            "ncaught": "302"
       },
       
       {
